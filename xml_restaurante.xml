@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template/restaurante.xsl"?>
+<catalog>
+  <comida>
+  
+
+    <nombre>Paella</nombre>
+    <precio>14.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion> Su ingrediente principal es el arroz, habitualmente acompañado por mariscos, pollo, legumbres y otros alimentos</descripcion>
+    <Kcal>379</Kcal>
+    <Ingredientes>
+        <elementos>Arroz</elementos>
+        <elementos>Pollo</elementos>
+        <elementos>Gambas</elementos>
+    </Ingredientes>
+    <img>img/paella.jpg</img>
+  </comida>
+  
+  <comida>
+  
+
+    <nombre>Cocido Madrileño</nombre>
+    <precio>7.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Consiste en un guiso cuyo ingrediente principal son los garbanzos y los secundarios.</descripcion>
+    <Kcal>800</Kcal>
+    <Ingredientes>
+        <elementos>Carne</elementos>
+        <elementos>Morcilla</elementos>
+        <elementos>Chistorra</elementos>
+        <elementos>Cebolla</elementos>
+    </Ingredientes>
+    <img>img/cocido_madrid.jpg</img>
+  
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Fabada Asturiana</nombre>
+    <precio>9.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Es el cocido tradicional de la cocina asturiana elaborado con alubias blancas</descripcion>
+    <Kcal>1200</Kcal>
+    <Ingredientes>
+        <elementos>Judías</elementos>
+        <elementos>Chistorra</elementos>
+        <elementos>Oreja de cerdo</elementos>
+    </Ingredientes>
+    <img>img/fabada_asturiana.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Jamón Serrano</nombre>
+    <precio>4.99</precio>
+    <tipo>Entrante</tipo>
+    <descripcion>Es un alimento obtenido a partir de la salazón y secado al aire de las patas traseras del cerdo.</descripcion>
+    <Kcal>200</Kcal>
+    <Ingredientes>
+        <elementos>Jamón</elementos>
+    </Ingredientes>
+    <img>img/jamon_serrano.jpg</img>
+  </comida>
+
+  <comida>
+    <nombre>Gazpacho</nombre>
+    <precio>4.99</precio>
+    <tipo>Entrante</tipo>
+    <descripcion>Es una bebida con varios ingredientes como aceite de oliva, vinagre, agua, hortalizas crudas, generalmente tomates, pepinos, pimientos, cebollas y ajo. ​​ </descripcion>
+    <Kcal>180</Kcal>
+    <Ingredientes>
+        <elementos>Tomate</elementos>
+    </Ingredientes>
+    <img>img/gazpacho.jpg</img>
+  </comida>
+  
+  <comida>
+  
+
+    <nombre>Tortilla de Patatas</nombre>
+    <precio>5.99</precio>
+    <tipo>Entrante</tipo>
+    <descripcion>Es una tortilla (es decir, huevo batido, cuajado con aceite en la sartén)​ con patatas.</descripcion>
+    <Kcal>149</Kcal>
+    <Ingredientes>Huevos Patatas</Ingredientes>
+    <img>img/tortilla_de_patatas.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Pulpo a la Gallega</nombre>
+    <precio>3.99</precio>
+    <tipo>Entrante</tipo>
+    <descripcion>Consta solo de pulpo cocido, sal gorda, pimentón y aceite de oliva.</descripcion>
+    <Kcal>84</Kcal>
+    <Ingredientes>
+      <elementos>Pulpo</elementos>
+      <elementos>Ajo</elementos>
+    </Ingredientes>
+    <img>img/pulpo_gallega.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Rabo de Toro</nombre>
+    <precio>9.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Es un plato típico cordobés que en resumidas cuentas es un estofado de rabo de vaca o toro</descripcion>
+    <Kcal>674</Kcal>
+    <Ingredientes>
+      <elementos>Rabo de toro</elementos>
+      <elementos>Zanahoria</elementos>
+      <elementos>Cebolla</elementos>
+    </Ingredientes>
+    <img>img/rabo_toro.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Merluza</nombre>
+    <precio>13.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Merluza en salsa</descripcion>
+    <Kcal>133</Kcal>
+    <Ingredientes>
+      <elementos>Merluza</elementos>
+    </Ingredientes>
+    <img>img/merluza.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Cordero Asado</nombre>
+    <precio>14.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Es una preparación de la carne de cordero en forma de asado que se contempla como muy popular en diversos países y culturas.</descripcion>
+    <Kcal>650</Kcal>
+    <Ingredientes>
+      <elementos>Cordero</elementos>
+      <elementos>Patatas</elementos>
+    </Ingredientes>
+    <img>img/cordero.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Gambas al Ajillo</nombre>
+    <precio>5.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Son un plato popular de la cocina española que suele encontrarse mayoritariamente en el sur y centro del territorio.</descripcion>
+    <Kcal>483</Kcal>
+    <Ingredientes>
+      <elementos>Gambas</elementos>
+      <elementos>Ajo</elementos>
+    </Ingredientes>
+    <img>img/gambas.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Calamares a la Romana</nombre>
+    <precio>7.99</precio>
+    <tipo>Plato</tipo>
+    <descripcion>Son un producto frito preparado a base de calamares fritos rebozados o pulpo rebozado o en harina que se puede encontrar en muchos bares y restaurantes de los países que disfrutan de la cocina mediterránea y atlántica.</descripcion>
+    <Kcal>483</Kcal>
+    <Ingredientes>
+      <elementos>Calamares</elementos>
+      <elementos>Huevo</elementos>
+    </Ingredientes>
+    <img>img/calamares.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>6 Croquetas</nombre>
+    <precio>6.99</precio>
+    <tipo>Entrante</tipo>
+    <descripcion>Es una porción de masa hecha con un picadillo de diversos ingredientes</descripcion>
+    <Kcal>360</Kcal>
+    <Ingredientes>
+      <elementos>Pollo</elementos>
+      <elementos>Huevo</elementos>
+    </Ingredientes>
+    <img>img/croquetas.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Callos</nombre>
+    <precio>4.99</precio>
+    <tipo>Entrante</tipo>
+    <descripcion>Es piel engrosada que se forma en la parte de arriba o en un lado de un dedo del pie.</descripcion>
+    <Kcal>360</Kcal>
+    <Ingredientes>
+      <elementos>Oreja de Cerdo</elementos>
+    </Ingredientes>
+    <img>img/callos.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Migas Extremeñas</nombre>
+    <precio>7.99</precio>
+    <tipo>Platos</tipo>
+    <descripcion>Es elaborado principalmente con pedazos de la miga de pan tostado acompañadas de carnes y verduras picadas.</descripcion>
+    <Kcal>400</Kcal>
+    <Ingredientes>
+      <elementos>Pan</elementos>
+      <elementos>Chistorra</elementos>
+      <elementos>Morcilla</elementos>
+    </Ingredientes>
+    <img>img/migas_extremeñas.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>CREMA CATALANA</nombre>
+    <precio>3.99</precio>
+    <tipo>Postre</tipo>
+    <descripcion>Yema de huevo con capa de azucar caramelizado.</descripcion>
+    <Kcal>143</Kcal>
+    <Ingredientes>
+      <elementos>Leche</elementos>
+      <elementos>Canela</elementos>
+      <elementos>Huevo</elementos>
+    </Ingredientes>
+    <img>img/crema_catalana.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Ensaimada</nombre>
+    <precio>2.99</precio>
+    <tipo>Postre</tipo>
+    <descripcion>Es un alimento de masa azucarada, fermentada y horneada, elaborada con harina de fuerza, agua, azúcar, huevos, masa madre y manteca de cerdo.</descripcion>
+    <Kcal>469</Kcal>
+    <Ingredientes>
+      <elementos>Harina</elementos>
+      <elementos>Huevo</elementos>
+      <elementos>Azúcar</elementos>
+      <elementos>Leche</elementos>
+    </Ingredientes>
+    <img>img/ensaimada.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Arroz con Leche</nombre>
+    <precio>5.99</precio>
+    <tipo>Postre</tipo>
+    <descripcion>Es un postre típico de la gastronomía de múltiples países hecho cociendo lentamente arroz con leche y azúcar.</descripcion>
+    <Kcal>229</Kcal>
+    <Ingredientes>
+      <elementos>Arroz</elementos>
+      <elementos>Agua</elementos>
+      <elementos>Leche</elementos>
+    </Ingredientes>
+    <img>img/arroz_leche.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Flan de Huevo</nombre>
+    <precio>4.99</precio>
+    <tipo>Postre</tipo>
+    <descripcion>Es un postre que se prepara con huevos enteros, leche y azúcar.</descripcion>
+    <Kcal>229</Kcal>
+    <Ingredientes>
+      <elementos>Huevos</elementos>
+      <elementos>Ázucar</elementos>
+      <elementos>Leche</elementos>
+    </Ingredientes>
+    <img>img/flan_huevo.jpg</img>
+  </comida>
+
+  <comida>
+  
+
+    <nombre>Natillas</nombre>
+    <precio>2.99</precio>
+    <tipo>Postre</tipo>
+    <descripcion>Son un postre lácteo muy extendido en la gastronomía española.</descripcion>
+    <Kcal>110</Kcal>
+    <Ingredientes>
+      <elementos>Huevos</elementos>
+      <elementos>Ázucar</elementos>
+      <elementos>Leche</elementos>
+    </Ingredientes>
+    <img>img/natillas.jpg</img>
+  </comida>
+
+</catalog>
